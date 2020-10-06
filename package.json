@@ -1,0 +1,20 @@
+{
+  "name": "web12",
+  "version": "1.0.0",
+  "description": "Criacao de uma API Rest em Node.js com a turma de Consultoria Web 12 da Fatec Rio Preto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thalesfigueiredo",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "consign": "^0.1.6",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.7"
+  }
+}
